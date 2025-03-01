@@ -1,5 +1,5 @@
 T009JA0047503525, evri, Ali Express
 AQ849532205IN, india-post, SBI Card 1
 JD056264431IN, india-post, SBI Card 2
-UK2537062083, amazon, Mr Muscle
-UK2539126401, amazon, Battery
+UK2537062083, amazon_uk, Mr Muscle
+UK2539126401, amazon_uk, Battery
